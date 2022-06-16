@@ -14,4 +14,4 @@ This project uses [0xAtum's Template](https://github.com/0xAtum/template-solidit
 > needed to support and develop it.
 > Source: [Techopedia](https://www.techopedia.com/definition/4066/proof-of-concept-poc)
 
-In other words, this is a prototype and it is not and will not be audited or developed to be secure. This POC is not ready for production, also known as *Mainnet* in blockchain. **Use it at your own risk**
+In other words, this is a prototype. It is not and will not be audited or developed to be secure. This POC is not ready for production, also known as *Mainnet* in blockchain. **Use it at your own risk**
